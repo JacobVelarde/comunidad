@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "378102368196",
+    "firebase_url": "https://comunidad-277806.firebaseio.com",
+    "project_id": "comunidad-277806",
+    "storage_bucket": "comunidad-277806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378102368196:android:0a24a312edb94e5323c691",
+        "android_client_info": {
+          "package_name": "com.blackapp.comunidad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378102368196-cqd92iqqfikcuujh1onft6fstq6cdk3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATkxSKuc6dKky2VpTFMnZjxKYy9SLlY1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378102368196-cqd92iqqfikcuujh1onft6fstq6cdk3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
